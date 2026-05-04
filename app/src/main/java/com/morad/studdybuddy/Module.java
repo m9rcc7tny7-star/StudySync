@@ -8,7 +8,7 @@ public class Module {
     private String subjectArea;
 
     public Module() {
-        // Required empty constructor for Firestore
+
     }
 
     public Module(String moduleCode, String moduleName, String moduleDescription, String subjectArea) {

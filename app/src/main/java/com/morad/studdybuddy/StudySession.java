@@ -10,7 +10,7 @@ public class StudySession {
     private String meetingLink;
 
     public StudySession() {
-        // Required empty constructor for Firestore
+
     }
 
     public StudySession(String topic, String date, String time, String mode, String location, String meetingLink) {

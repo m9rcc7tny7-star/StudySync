@@ -9,7 +9,7 @@ public class ResourceItem {
     private String uploadedBy;
 
     public ResourceItem() {
-        // Required empty constructor for Firestore
+
     }
 
     public ResourceItem(String title, String link, String description, String uploadedBy) {

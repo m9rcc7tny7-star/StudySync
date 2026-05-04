@@ -6,7 +6,7 @@ public class StudyGroup {
     private String createdBy;
 
     public StudyGroup() {
-        // Required empty constructor for Firestore
+
     }
 
     public StudyGroup(String name, String createdBy) {
